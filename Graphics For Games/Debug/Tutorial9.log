@@ -1,0 +1,8 @@
+﻿  Tutorial9.cpp
+d:\gc (2)\gc (2)\gc\gc\nclgl\mesh.h(7): error C2365: 'INDEX_BUFFER': redefinition; previous definition was 'enumerator'
+  d:\gc (2)\gc (2)\gc\gc\nclgl\mesh.h(7): note: see declaration of 'INDEX_BUFFER'
+  Renderer.cpp
+d:\gc (2)\gc (2)\gc\gc\nclgl\mesh.h(7): error C2365: 'INDEX_BUFFER': redefinition; previous definition was 'enumerator'
+  d:\gc (2)\gc (2)\gc\gc\nclgl\mesh.h(7): note: see declaration of 'INDEX_BUFFER'
+d:\gc (2)\gc (2)\gc\gc\graphics for games\9) skeletal animation\renderer.cpp(56): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Generating Code...

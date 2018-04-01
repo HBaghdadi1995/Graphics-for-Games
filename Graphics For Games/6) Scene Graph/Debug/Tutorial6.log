@@ -1,0 +1,24 @@
+﻿  Tutorial6.cpp
+  Renderer.cpp
+d:\new folder\gc (3)\gc\gc\graphics for games\6) scene graph\renderer.cpp(21): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  CubeRobot.cpp
+d:\new folder\gc (3)\gc\gc\graphics for games\6) scene graph\cuberobot.cpp(8): error C3861: 'setTransform': identifier not found
+d:\new folder\gc (3)\gc\gc\graphics for games\6) scene graph\cuberobot.cpp(12): error C2039: 'setTransform': is not a member of 'SceneNode'
+  d:\new folder\gc (3)\gc\gc\nclgl\scenenode.h(8): note: see declaration of 'SceneNode'
+d:\new folder\gc (3)\gc\gc\graphics for games\6) scene graph\cuberobot.cpp(17): error C2039: 'setTransform': is not a member of 'SceneNode'
+  d:\new folder\gc (3)\gc\gc\nclgl\scenenode.h(8): note: see declaration of 'SceneNode'
+d:\new folder\gc (3)\gc\gc\graphics for games\6) scene graph\cuberobot.cpp(22): error C2039: 'setTransform': is not a member of 'SceneNode'
+  d:\new folder\gc (3)\gc\gc\nclgl\scenenode.h(8): note: see declaration of 'SceneNode'
+d:\new folder\gc (3)\gc\gc\graphics for games\6) scene graph\cuberobot.cpp(27): error C2039: 'setTransform': is not a member of 'SceneNode'
+  d:\new folder\gc (3)\gc\gc\nclgl\scenenode.h(8): note: see declaration of 'SceneNode'
+d:\new folder\gc (3)\gc\gc\graphics for games\6) scene graph\cuberobot.cpp(32): error C2039: 'setTransform': is not a member of 'SceneNode'
+  d:\new folder\gc (3)\gc\gc\nclgl\scenenode.h(8): note: see declaration of 'SceneNode'
+d:\new folder\gc (3)\gc\gc\graphics for games\6) scene graph\cuberobot.cpp(37): error C2039: 'setTransform': is not a member of 'SceneNode'
+  d:\new folder\gc (3)\gc\gc\nclgl\scenenode.h(8): note: see declaration of 'SceneNode'
+d:\new folder\gc (3)\gc\gc\graphics for games\6) scene graph\cuberobot.cpp(46): error C2039: 'setTransform': is not a member of 'SceneNode'
+  d:\new folder\gc (3)\gc\gc\nclgl\scenenode.h(8): note: see declaration of 'SceneNode'
+d:\new folder\gc (3)\gc\gc\graphics for games\6) scene graph\cuberobot.cpp(48): error C2039: 'setTransform': is not a member of 'SceneNode'
+  d:\new folder\gc (3)\gc\gc\nclgl\scenenode.h(8): note: see declaration of 'SceneNode'
+d:\new folder\gc (3)\gc\gc\graphics for games\6) scene graph\cuberobot.cpp(50): error C2039: 'setTransform': is not a member of 'SceneNode'
+  d:\new folder\gc (3)\gc\gc\nclgl\scenenode.h(8): note: see declaration of 'SceneNode'
+  Generating Code...

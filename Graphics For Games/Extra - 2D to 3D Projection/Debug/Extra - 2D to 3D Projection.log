@@ -1,0 +1,12 @@
+﻿  Renderer.cpp
+  Ray.cpp
+  main.cpp
+  Generating Code...
+Renderer.obj : warning LNK4049: locally defined symbol ___glewGetUniformLocation imported
+Renderer.obj : warning LNK4049: locally defined symbol ___glewUniform1i imported
+Renderer.obj : warning LNK4049: locally defined symbol ___glewUniform4fv imported
+Renderer.obj : warning LNK4049: locally defined symbol ___glewUniformMatrix4fv imported
+Renderer.obj : warning LNK4049: locally defined symbol ___glewUseProgram imported
+glew32.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32.lib(glew.obj)' or at 'D:\GC (2)\GC (2)\GC\GC\Graphics For Games\Debug\vc120.pdb'; linking object as if no debug info
+  Extra - 2D to 3D Projection.vcxproj -> D:\GC (2)\GC (2)\GC\GC\Graphics For Games\Debug\Extra - 2D to 3D Projection.exe
+  Extra - 2D to 3D Projection.vcxproj -> D:\GC (2)\GC (2)\GC\GC\Graphics For Games\Debug\Extra - 2D to 3D Projection.pdb (Partial PDB)

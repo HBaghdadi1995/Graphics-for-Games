@@ -1,0 +1,23 @@
+﻿  Window.cpp
+  Shader.cpp
+  SceneNode.cpp
+  Quaternion.cpp
+  Plane.cpp
+  OGLRenderer.cpp
+  OBJMesh.cpp
+  Mouse.cpp
+  Mesh.cpp
+d:\gc (2)\gc (2)\gc\gc\nclgl\mesh.cpp(121): warning C4018: '<': signed/unsigned mismatch
+d:\gc (2)\gc (2)\gc\gc\nclgl\mesh.cpp(132): warning C4018: '<': signed/unsigned mismatch
+  MD5Node.cpp
+  MD5Mesh.cpp
+  MD5FileData.cpp
+  MD5Anim.cpp
+  Matrix4.cpp
+  Keyboard.cpp
+  HeightMap.cpp
+  GameTimer.cpp
+  Frustrum.cpp
+  Camera.cpp
+  Generating Code...
+  nclgl.vcxproj -> D:\GC (2)\GC (2)\GC\GC\Graphics For Games\Debug\nclgl.lib

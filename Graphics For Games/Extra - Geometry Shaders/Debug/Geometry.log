@@ -1,0 +1,4 @@
+﻿  ParticleEmitter.cpp
+d:\new folder\gc (3)\gc\gc\graphics for games\extra - geometry shaders\particleemitter.cpp(133): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Geometry.vcxproj -> D:\New folder\GC (3)\GC\GC\Graphics For Games\Debug\Extra - Geometry Shaders.exe
+  Geometry.vcxproj -> D:\New folder\GC (3)\GC\GC\Graphics For Games\Debug\Extra - Geometry Shaders.pdb (Partial PDB)

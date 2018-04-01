@@ -1,0 +1,13 @@
+﻿  tutorial14.cpp
+d:\new folder\gc (3)\gc\gc\graphics for games\14) shadow mapping\../../nclgl/OBJmesh.h(151): warning C4018: '<': signed/unsigned mismatch
+d:\new folder\gc (3)\gc\gc\graphics for games\14) shadow mapping\../../nclgl/OBJmesh.h(152): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Renderer.cpp
+d:\new folder\gc (3)\gc\gc\graphics for games\14) shadow mapping\../../nclgl/OBJmesh.h(151): warning C4018: '<': signed/unsigned mismatch
+d:\new folder\gc (3)\gc\gc\graphics for games\14) shadow mapping\../../nclgl/OBJmesh.h(152): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+Renderer.cpp(56): warning C4305: 'argument': truncation from 'double' to 'const float'
+Renderer.cpp(119): warning C4305: 'argument': truncation from 'double' to 'float'
+Renderer.cpp(120): warning C4305: 'argument': truncation from 'double' to 'float'
+Renderer.cpp(167): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Generating Code...
+  tutorial14.vcxproj -> D:\New folder\GC (3)\GC\GC\Graphics For Games\Debug\Tutorial 14 - Shadow Mapping.exe
+  tutorial14.vcxproj -> D:\New folder\GC (3)\GC\GC\Graphics For Games\Debug\Tutorial 14 - Shadow Mapping.pdb (Full PDB)

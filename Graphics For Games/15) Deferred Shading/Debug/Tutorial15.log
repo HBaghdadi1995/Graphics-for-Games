@@ -1,0 +1,12 @@
+﻿  Renderer.cpp
+d:\new folder\gc (3)\gc\gc\nclgl\objmesh.h(151): warning C4018: '<': signed/unsigned mismatch
+d:\new folder\gc (3)\gc\gc\nclgl\objmesh.h(152): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Generating Code...
+  Compiling...
+  Tutorial15.cpp
+d:\new folder\gc (3)\gc\gc\nclgl\objmesh.h(151): warning C4018: '<': signed/unsigned mismatch
+d:\new folder\gc (3)\gc\gc\nclgl\objmesh.h(152): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+d:\new folder\gc (3)\gc\gc\graphics for games\15) deferred shading\tutorial15.cpp(12): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Generating Code...
+  Tutorial15.vcxproj -> D:\New folder\GC (3)\GC\GC\Graphics For Games\Debug\Tutorial 15 - Deferred Shading.exe
+  Tutorial15.vcxproj -> D:\New folder\GC (3)\GC\GC\Graphics For Games\Debug\Tutorial 15 - Deferred Shading.pdb (Full PDB)
