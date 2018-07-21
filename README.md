@@ -4,20 +4,6 @@
 
 To Create three diffirent scenes that display combinations of diffirent Graphical Features.
 
-## Controls
-
-* __WASD__: Move Camera
-
-* __up and down arrow keys__: camera height.
-
-* __F__: Toggle FPS
-
-* __P__: Full Pause.
-
-* __C__: Pause scene change and camera movement.
-
-* __Mouse Movement__: Change Pitch and Yaw
-
 ## Skills Demonstarted
 
 A list of the skills demonstrated in the codebase.
@@ -53,3 +39,25 @@ A list of the skills demonstrated in the codebase.
 * Another Scene within a scne created using buffers
 
 * Hardware Skeletal animations
+
+## Instructions
+
+### Running the Project
+
+Visual Studio is required to generate the executables, to generate them set GraphicsCoursework as the startup project then select any configuration and Win32 as the platform, finally click on build or the local windows debugger.
+
+_Note: Release mode will have a higher frame rate than Debug Mode_
+
+### Controls
+
+* __WASD__: Move Camera
+
+* __up and down arrow keys__: camera height.
+
+* __F__: Toggle FPS
+
+* __P__: Full Pause.
+
+* __C__: Pause scene change and camera movement.
+
+* __Mouse Movement__: Change Pitch and Yaw
