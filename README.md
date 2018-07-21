@@ -62,4 +62,4 @@ _Note: Release mode will have a higher frame rate than Debug Mode_
 
 * __Mouse Movement__: Change Pitch and Yaw
 
-* __ESC__: Leave
+* __ESC__: Quit
