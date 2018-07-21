@@ -61,3 +61,5 @@ _Note: Release mode will have a higher frame rate than Debug Mode_
 * __C__: Pause scene change and camera movement.
 
 * __Mouse Movement__: Change Pitch and Yaw
+
+* __ESC__: Leave
