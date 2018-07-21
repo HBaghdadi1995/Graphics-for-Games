@@ -1,5 +1,9 @@
 # Graphics-for-Games
 
+## Aim
+
+To Create three diffirent scenes that display combinations of diffirent Graphical Features.
+
 ## Controls
 
 * __WASD__: Move Camera
