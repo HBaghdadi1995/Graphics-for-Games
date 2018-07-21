@@ -44,7 +44,7 @@ A list of the skills demonstrated in the codebase.
 
 ### Running the Project
 
-Visual Studio is required to generate the executables, to generate them set GraphicsCoursework as the startup project then select any configuration and Win32 as the platform, finally click on build or the local windows debugger.
+Visual Studio as well as an OpenGL 3.1 enabled GPU are required to generate the executables, to generate them set GraphicsCoursework as the startup project then select any configuration and Win32 as the platform, finally click on build or the local windows debugger.
 
 _Note: Release mode will have a higher frame rate than Debug Mode_
 
