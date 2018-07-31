@@ -65,4 +65,4 @@ _Note: Release mode will have a higher frame rate than Debug Mode_
 * __ESC__: Quit
 
 ## Citations
-* OpenGL code based on [Newcastle University Graphics Framework](https://research.ncl.ac.uk/game/mastersdegree/graphicsforgames/)
+* Code based on [Newcastle University Graphics Framework](https://research.ncl.ac.uk/game/mastersdegree/graphicsforgames/)
